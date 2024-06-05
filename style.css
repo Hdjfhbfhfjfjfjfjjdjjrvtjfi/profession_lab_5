@@ -26,3 +26,7 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+#table {
+  color: white;
+  background-color: black;
+}
